@@ -1,0 +1,85 @@
+# test effects stuff
+
+obj/irqfukker_h.prg
+assets/song.prg	e000 2
+
+
+# ------ testi ------------
+
+# ------ musa
+
+#M obj/tasstest_t.mprg
+
+# ------ partit
+
+#M obj/extfall_t.mprg 
+
+#M obj/lastone_h.mprg
+
+
+
+#M obj/burner_h.mprg
+
+#M obj/lastone_h.mprg
+
+#M obj/annabel_t.mprg
+
+#M obj/burner_h.mprg
+
+#M obj/rasterit_t.mprg
+#assets/rasterit/kuva1
+
+#assets/rasterit/kuva2
+
+#M obj/extfall_t.mprg 
+
+#M obj/extfall_t.mprg 
+
+#M obj/orangi_h.mprg
+
+
+#M obj/cylinder_t.mprg
+
+#M  obj/filterplotter_h.mprg
+
+#M obj/kallo_t.mprg
+
+
+# -------- demo ------------
+
+M obj/boot666_h.mprg
+
+M obj/rad_h.mprg
+
+M obj/logo_h.mprg
+
+M obj/cylinder_t.mprg
+
+M obj/filterplotter_h.mprg
+
+M obj/kallo_t.mprg
+
+M obj/duce_h.mprg
+
+M obj/annabel_t.mprg
+
+M obj/rasterit_t.mprg
+assets/rasterit/kuva1
+
+assets/rasterit/kuva2
+
+assets/rasterit/kuva2
+
+assets/rasterit/kuva1
+
+assets/rasterit/kuva3
+
+assets/rasterit/kuva3
+
+M obj/orangi_h.mprg
+
+M obj/burner_h.mprg
+
+M obj/extfall_t.mprg 
+
+M obj/lastone_h.mprg
