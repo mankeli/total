@@ -18,10 +18,11 @@ This is source for Total demo from Extend (Released @ X'2016)
 
 ## Credits:
 
-* Visuals by Mankeli/Extend and Electric/Extend
-* Program by Mankeli/Extend
-* Audio by Barracuda/Extend
-* Audio Program by TBB/Extend
+* Code: BARFLY, MANKELI
+* Graphics: DUCE, ELECTRIC
+* Music: BARRACUDA
+* Player: TBB
+* Linking: MANKELI
 
 
 * Loader by LFT
